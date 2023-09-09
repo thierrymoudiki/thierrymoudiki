@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=thierrymoudiki)
+![](https://komarev.com/ghpvc/?username=thierrymoudiki&color=lightgrey)
 
 <!--
 **thierrymoudiki/thierrymoudiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
