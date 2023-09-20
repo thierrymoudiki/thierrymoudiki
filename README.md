@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=thierrymoudiki&color=lightgrey)
 
+Personal website: [https://thierrymoudiki.github.io](https://thierrymoudiki.github.io)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymoudiki&theme=buefy&layout=compact)
 
 <!--
