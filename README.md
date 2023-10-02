@@ -2,10 +2,6 @@
 
 Personal website: [https://thierrymoudiki.github.io](https://thierrymoudiki.github.io)
 
-![](https://komarev.com/ghpvc/?username=thierrymoudiki&color=lightgrey)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymoudiki&theme=buefy&layout=compact)
-
 ## 1. GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=thierrymoudiki&show_icons=true)
@@ -20,7 +16,7 @@ Personal website: [https://thierrymoudiki.github.io](https://thierrymoudiki.gith
 
 ### Repository View Counter - HITS
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Techtonique/nnetsauce)
 
 
 <!--
