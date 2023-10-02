@@ -2,21 +2,19 @@
 
 Personal website: [https://thierrymoudiki.github.io](https://thierrymoudiki.github.io)
 
-## 1. GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=thierrymoudiki&show_icons=true)
-
-## 2. Most Used Languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymoudiki&theme=blue-green)
-
-## 3. Profile View Counter
+## 1. Profile View Counter
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
-### Repository View Counter - HITS
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Techtonique/nnetsauce)
+## 2. GitHub Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=thierrymoudiki&show_icons=true)
+
+## 3. Most Used Languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thierrymoudiki&theme=blue-green)
+
 
 
 <!--
