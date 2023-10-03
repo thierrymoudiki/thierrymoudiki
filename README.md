@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Personal website: [https://thierrymoudiki.github.io](https://thierrymoudiki.github.io)
+Personal website: [https://thierrymoudiki.github.io](https://thierrymoudiki.github.io). See also: [https://github.com/Techtonique](https://github.com/Techtonique).
 
 ## 1. Profile View Counter
 
