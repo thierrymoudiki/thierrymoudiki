@@ -4,7 +4,7 @@ Personal website: [https://thierrymoudiki.github.io](https://thierrymoudiki.gith
 
 ## 1. Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=thierrymoudiki)
 
 
 ## 2. GitHub Stats
